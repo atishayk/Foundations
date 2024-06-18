@@ -1,1 +1,1 @@
-Testing some stuff with git!
+Practicing HTLML, CSS, JS, etc.
